@@ -1,6 +1,6 @@
 import sys
 sys.setrecursionlimit(1000000)
-
+    
 class Node:
 	def __init__(self, key):
 		self.left = None
